@@ -1,0 +1,26 @@
+﻿<!-- Tiago Zanaga Da Costa-->
+    <Window x:Class="Homework1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Background="Aquamarine">
+    <Grid>
+        <TextBox x:Name="statusBox" HorizontalAlignment="Left" Height="73" TextWrapping="Wrap" Text="{Binding Path=status}" VerticalAlignment="Top" Width="497" Margin="10,10,0,0"/>
+        <TextBlock x:Name="statusBlk" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Status" FontSize="14" VerticalAlignment="Top" Margin="16,0,0,0" Background="Aquamarine"/>
+
+        <TextBox x:Name="set1In" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding Path=set1}" VerticalAlignment="Top" Width="300" Margin="120,120,0,0"/>
+        <TextBlock x:Name="set1InBlk" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Set 1 Input" FontSize="14" VerticalAlignment="Top" Margin="120,96,0,0" Background="Aquamarine"/>
+        <TextBox x:Name="set2In" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding Path=set2}" VerticalAlignment="Top" Width="300" Margin="120,172,0,0"/>
+        <TextBlock x:Name="set2InBlk" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Set 2 Input" FontSize="14" VerticalAlignment="Top" Margin="120,148,0,0" Background="Aquamarine"/>
+
+        <Button x:Name="updateBut" Content="Update" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="25,147,0,0" Click="updateBut_Click" Background="Coral"/>
+
+        <TextBlock x:Name="unionBlk" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Union" FontSize="14" VerticalAlignment="Top" Margin="68,215,0,0" Height="23" Width="47" Background="Aquamarine"/>
+        <TextBox x:Name="unionBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding Path=unionS}" VerticalAlignment="Top" Width="300" Margin="120,215,0,0"/>
+        <TextBlock x:Name="interBlk" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Intersection" FontSize="14" VerticalAlignment="Top" Margin="39,256,0,0" Height="23" Width="76" Background="Aquamarine"/>
+        <TextBox x:Name="interBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding Path=interS}" VerticalAlignment="Top" Width="300" Margin="120,256,0,0"/>
+    </Grid>
+</Window>
