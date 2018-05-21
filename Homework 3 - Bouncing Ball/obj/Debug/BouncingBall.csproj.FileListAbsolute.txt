@@ -1,0 +1,13 @@
+C:\Users\Tiago Da Costa\Documents\BouncingBall\bin\Debug\BouncingBall.exe.config
+C:\Users\Tiago Da Costa\Documents\BouncingBall\obj\Debug\BouncingBall.exe
+C:\Users\Tiago Da Costa\Documents\BouncingBall\obj\Debug\BouncingBall.pdb
+C:\Users\Tiago Da Costa\Documents\BouncingBall\bin\Debug\BouncingBall.exe
+C:\Users\Tiago Da Costa\Documents\BouncingBall\bin\Debug\BouncingBall.pdb
+C:\Users\Tiago Da Costa\Documents\BouncingBall\obj\Debug\BouncingBall.csprojResolveAssemblyReference.cache
+C:\Users\Tiago Da Costa\Documents\BouncingBall\obj\Debug\MainWindow.baml
+C:\Users\Tiago Da Costa\Documents\BouncingBall\obj\Debug\MainWindow.g.cs
+C:\Users\Tiago Da Costa\Documents\BouncingBall\obj\Debug\App.g.cs
+C:\Users\Tiago Da Costa\Documents\BouncingBall\obj\Debug\BouncingBall_MarkupCompile.cache
+C:\Users\Tiago Da Costa\Documents\BouncingBall\obj\Debug\BouncingBall.g.resources
+C:\Users\Tiago Da Costa\Documents\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+C:\Users\Tiago Da Costa\Documents\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.Cache
